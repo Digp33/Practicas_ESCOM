@@ -59,7 +59,7 @@ int funTriangulo(int x) {
 			fflush(stdin);
 			break;
 		}
-	}while (selec!='3');
+	}while (selec!=3);
 	return 0;
 }
 
